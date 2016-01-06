@@ -23,9 +23,12 @@
 
 ## Java8
 
-  - High level explainations 
+* [Java8 Features](http://winterbe.com/posts/2014/03/16/java-8-tutorial/) - High level explainations of the features in Java8
   
 * [Java 8 Collectors](http://codingjunkie.net/guava-and-java8-collectors/) - Java8 Collector and Streams explained by implementing Guava Multimap collector
+
+## Logging
+ * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/) - Loggers, Appenders, Layouts explained
 
 ## Bytecode Manipulation
 
@@ -46,8 +49,8 @@
 * [Decorator with Lambda](http://www.javaadvent.com/2015/12/decorator-design-pattern-using-lambdas.html) - Decorator Design Pattern using lambdas
 
 # Docker
-* [Practical Tips]() - 
-
+* [Practical Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage) - Docker tips
+* [Docker Networking](https://docs.docker.com/engine/userguide/networking/dockernetworks/) - Docker networking
 # DBs
 
 ## JPA
