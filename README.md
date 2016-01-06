@@ -11,7 +11,7 @@
 - [Docker](#docker)
     - [Compose](#compose)
 - [Linux](#linux)
-    - [Ancients](#ancients)
+    - [Security](#security)
 - [DBs](#database)
     - [Connection pools](#ancients)
     - [JPA](#jpa)
@@ -23,7 +23,7 @@
 
 ## Java8
 
-* [Java8 Features](http://winterbe.com/posts/2014/03/16/java-8-tutorial/) - High level explainations of the features in Java8
+* [Java 8 Features](http://winterbe.com/posts/2014/03/16/java-8-tutorial/) - High level explainations of the features in Java8
   
 * [Java 8 Collectors](http://codingjunkie.net/guava-and-java8-collectors/) - Java8 Collector and Streams explained by implementing Guava Multimap collector
 
@@ -51,7 +51,16 @@
 # Docker
 * [Practical Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage) - Docker tips
 * [Docker Networking](https://docs.docker.com/engine/userguide/networking/dockernetworks/) - Docker networking
+* 
 # DBs
+
+## Connection Pools
+
 
 ## JPA
 * [JPA Native query](http://www.thoughts-on-java.org/jpa-native-queries/) - JPA native query
+
+# Linux
+
+## Security
+* [Basic Security](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Basic infrastructure security, SSH, IPTABLES
