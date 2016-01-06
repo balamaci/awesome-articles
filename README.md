@@ -1,23 +1,23 @@
-# lists
-Curated lists of articles on different IT topics
-
+# Curated lists of articles on different IT topics
 
 - [Java](#java)
     - [Java8](#java8)
     - [Code Analysis](#code-analysis)
     - [Debugging](#debugging)
-    - [Bytecode manipulation](#bytecodema)
+    - [Bytecode manipulation](#bytecode-manipulation)
+- [Patterns](#patterns)    
+    - [General](#general)
 - [Docker](#docker)
-    - [Ancients](#ancients)
+    - [Compose](#compose)
     - [Code Analysis](#code-analysis)
     - [Code Coverage](#code-coverage)
 - [Linux](#linux)
     - [Ancients](#ancients)
-- [Patterns](#patterns)    
-    - [General](#general)
 - [DBs](#database)
     - [Connection pools](#ancients)
     - [JPA](#jpa)
+- [Machine Learning](#machine-learning)
+    - [Neural Networks](#neural-networks)
     
     
 # Java    
@@ -26,10 +26,17 @@ Curated lists of articles on different IT topics
 
   - High level explainations 
   
-* [http://codingjunkie.net/guava-and-java8-collectors/](http://codingjunkie.net/guava-and-java8-collectors/) - Java8 Collector and Streams explained
+* [Java 8 Collectors](http://codingjunkie.net/guava-and-java8-collectors/) - Java8 Collector and Streams explained by implementing Guava Multimap collector
 
+## Bytecode Manipulation
 
+* [Annotation-driven Java runtime code generation](http://zeroturnaround.com/rebellabs/how-my-new-friend-byte-buddy-enables-annotation-driven-java-runtime-code-generation) - Using ByteBuddy to generated code at runtime
 
 ## Debugging
  
   http://www.ibm.com/developerworks/library/j-jtp05236/
+
+# Machine learning
+
+## Neural networks
+* [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Handson intro to neural networks
