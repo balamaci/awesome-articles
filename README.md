@@ -5,12 +5,11 @@
     - [Code Analysis](#code-analysis)
     - [Debugging](#debugging)
     - [Bytecode manipulation](#bytecode-manipulation)
+    - [Logging](#logging)
 - [Patterns](#patterns)    
     - [General](#general)
 - [Docker](#docker)
     - [Compose](#compose)
-    - [Code Analysis](#code-analysis)
-    - [Code Coverage](#code-coverage)
 - [Linux](#linux)
     - [Ancients](#ancients)
 - [DBs](#database)
@@ -40,3 +39,16 @@
 
 ## Neural networks
 * [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Handson intro to neural networks
+
+# Patterns
+* [Github patterns repository](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
+* [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns reanalised 
+* [Decorator with Lambda](http://www.javaadvent.com/2015/12/decorator-design-pattern-using-lambdas.html) - Decorator Design Pattern using lambdas
+
+# Docker
+* [Practical Tips]() - 
+
+# DBs
+
+## JPA
+* [JPA Native query](http://www.thoughts-on-java.org/jpa-native-queries/) - JPA native query
