@@ -2,11 +2,11 @@
 
 - [Java](#java)
     - [Java8](#java8)
-    - [Code Analysis](#code-analysis)
+    - [Logging](#logging)
     - [Debugging](#debugging)
     - [Bytecode manipulation](#bytecode-manipulation)
-    - [Logging](#logging)
-- [Patterns](#patterns)    
+    - [General](#general)
+- [Programing Patterns](#patterns)    
     - [General](#general)
 - [Docker](#docker)
     - [Compose](#compose)
@@ -35,8 +35,10 @@
 * [Annotation-driven Java runtime code generation](http://zeroturnaround.com/rebellabs/how-my-new-friend-byte-buddy-enables-annotation-driven-java-runtime-code-generation) - Using ByteBuddy to generated code at runtime
 
 ## Debugging
- 
-  http://www.ibm.com/developerworks/library/j-jtp05236/
+ * [JVM Internals](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/) - Classloader, JVM bytecode internals   
+
+## General
+ * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
 
 # Machine learning
 
