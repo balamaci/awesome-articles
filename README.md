@@ -53,7 +53,7 @@
 # Docker
 * [Practical Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage) - Docker tips
 * [Docker Networking](https://docs.docker.com/engine/userguide/networking/dockernetworks/) - Docker networking
-* 
+
 # DBs
 
 ## Connection Pools
