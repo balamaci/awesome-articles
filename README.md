@@ -4,6 +4,7 @@
     - [Java8](#java8)
     - [Logging](#logging)
     - [Debugging](#debugging)
+    - [Caching](#caching)
     - [Bytecode manipulation](#bytecode-manipulation)
     - [General](#general)
 - [Programing Patterns](#patterns)    
@@ -30,12 +31,16 @@
 ## Logging
  * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/) - Loggers, Appenders, Layouts explained
 
+## Debugging
+ * [JVM Internals](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/) - Classloader, JVM bytecode internals   
+
+## Caching
+ * [JCache API](https://dzone.com/refcardz/java-caching) - Refcard for JCache API and generic terms explained
+
 ## Bytecode Manipulation
 
 * [Annotation-driven Java runtime code generation](http://zeroturnaround.com/rebellabs/how-my-new-friend-byte-buddy-enables-annotation-driven-java-runtime-code-generation) - Using ByteBuddy to generated code at runtime
 
-## Debugging
- * [JVM Internals](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/) - Classloader, JVM bytecode internals   
 
 ## General
  * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
