@@ -3,6 +3,7 @@
 - [Java](#java)
     - [Java8](#java8)
     - [Logging](#logging)
+    - [Maven](#maven)
     - [Debugging](#debugging)
     - [Caching](#caching)
     - [Bytecode manipulation](#bytecode-manipulation)
@@ -30,6 +31,9 @@
 
 ## Logging
  * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/) - Loggers, Appenders, Layouts explained
+
+## Maven
+ * [Maven Profiles](http://www.petrikainulainen.net/programming/tips-and-tricks/creating-profile-specific-configuration-files-with-maven/) - Maven Profiles
 
 ## Debugging
  * [JVM Internals](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/) - Classloader, JVM bytecode internals   
