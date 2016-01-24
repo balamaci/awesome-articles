@@ -70,6 +70,7 @@
 
 ## JPA
 * [JPA Native query](http://www.thoughts-on-java.org/jpa-native-queries/) - JPA native query
+* [JPA Auditing](http://www.baeldung.com/database-auditing-jpa) - JPA Auditing of entities - track createdBy, creationDate, lastUpdateDate
 
 # Linux
 
