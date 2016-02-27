@@ -3,13 +3,15 @@
 - [Java](#java)
     - [Java8](#java8)
     - [Logging](#logging)
+    - [Threads and Concurency](#Threads and Concurency)
     - [Maven](#maven)
     - [Debugging](#debugging)
     - [Caching](#caching)
     - [Bytecode manipulation](#bytecode-manipulation)
     - [General](#general)
-- [Programing Patterns](#patterns)    
+- [Software Patterns & Design](#patterns)    
     - [General](#general)
+    - [SOLID Principles](#SOLID)
 - [Docker](#docker)
     - [Compose](#compose)
 - [Linux](#linux)
@@ -32,8 +34,13 @@
 ## Logging
  * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/) - Loggers, Appenders, Layouts explained
 
+## Threads and Concurency
+* [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
+* [Thread Interruption](https://dzone.com/articles/understanding-thread-interruption-in-java) - How to interrupt threads in Java  
+
 ## Maven
  * [Maven Profiles](http://www.petrikainulainen.net/programming/tips-and-tricks/creating-profile-specific-configuration-files-with-maven/) - Maven Profiles
+
 
 ## Debugging
  * [JVM Internals](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/) - Classloader, JVM bytecode internals   
@@ -54,10 +61,14 @@
 ## Neural networks
 * [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Handson intro to neural networks
 
-# Patterns
+# Software Patterns & Design
 * [Github patterns repository](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
-* [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns reanalised 
+* [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns reanalised and implemented with Java8
 * [Decorator with Lambda](http://www.javaadvent.com/2015/12/decorator-design-pattern-using-lambdas.html) - Decorator Design Pattern using lambdas
+
+## SOLID
+* [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns reanalised 
+
 
 # Docker
 * [Practical Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage) - Docker tips
@@ -71,6 +82,7 @@
 ## JPA
 * [JPA Native query](http://www.thoughts-on-java.org/jpa-native-queries/) - JPA native query
 * [JPA Auditing](http://www.baeldung.com/database-auditing-jpa) - JPA Auditing of entities - track createdBy, creationDate, lastUpdateDate
+* [JPA Locks](http://vladmihalcea.com/2015/01/12/a-beginners-guide-to-java-persistence-locking/) - JPA entities Locking concept 
 
 # Linux
 
