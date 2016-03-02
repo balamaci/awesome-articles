@@ -11,7 +11,7 @@
     - [General](#general)
 - [Software Patterns & Design](#patterns)    
     - [General](#general)
-    - [SOLID Principles](#SOLID)
+    - [SOLID Principles](#solid)
 - [Docker](#docker)
     - [Compose](#compose)
 - [Linux](#linux)
@@ -34,7 +34,7 @@
 ## Logging
  * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/) - Loggers, Appenders, Layouts explained
 
-## [Threads and Concurency](#concurrency)
+## [Threads and Concurency]
 * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
 * [Thread Interruption](https://dzone.com/articles/understanding-thread-interruption-in-java) - How to interrupt threads in Java  
 * [Executor Service](http://www.baeldung.com/java-executor-service-tutorial) - ExecutorService
