@@ -38,6 +38,7 @@
 * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
 * [Thread Interruption](https://dzone.com/articles/understanding-thread-interruption-in-java) - How to interrupt threads in Java  
 * [Executor Service](http://www.baeldung.com/java-executor-service-tutorial) - ExecutorService
+* [Thread Pools](http://jvns.ca/blog/2016/03/27/thread-pools-how-do-i-use-them/) - ExecutorService perils
 
 ## Maven
  * [Maven Profiles](http://www.petrikainulainen.net/programming/tips-and-tricks/creating-profile-specific-configuration-files-with-maven/) - Maven Profiles
