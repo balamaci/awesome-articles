@@ -33,6 +33,8 @@
 
 ## Logging
  * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/) - Loggers, Appenders, Layouts explained
+ * [Logback](https://dzone.com/articles/logback-configuration-using-xml) - Logback config
+
 
 ## Threads and Concurency
 * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
@@ -61,15 +63,15 @@
 # Machine learning
 
 ## Neural networks
-* [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Handson intro to neural networks
+* [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Hands-on intro to neural networks
 
 # Software Patterns & Design
 * [Github patterns repository](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
-* [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns reanalised and implemented with Java8
+* [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns re-analised and implemented with Java8
 * [Decorator with Lambda](http://www.javaadvent.com/2015/12/decorator-design-pattern-using-lambdas.html) - Decorator Design Pattern using lambdas
 
 ## SOLID
-* [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns reanalised 
+* [SOLID](https://dzone.com/articles/the-solid-principles-in-real-life) - SOLID explained
 
 
 # Docker
