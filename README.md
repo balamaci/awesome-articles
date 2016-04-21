@@ -14,11 +14,13 @@
     - [SOLID Principles](#solid)
 - [Docker](#docker)
     - [Compose](#compose)
-- [Linux](#linux)
-    - [Security](#security)
 - [DBs](#database)
     - [Connection pools](#ancients)
     - [JPA](#jpa)
+- [GIT](#git)
+    - [Git tips](#git-tips)
+- [Linux](#linux)
+    - [Security](#security)
 - [Machine Learning](#machine-learning)
     - [Neural Networks](#neural-networks)
     
@@ -60,11 +62,6 @@
 ## General
  * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
 
-# Machine learning
-
-## Neural networks
-* [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Hands-on intro to neural networks
-
 # Software Patterns & Design
 * [Github patterns repository](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
 * [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns re-analised and implemented with Java8
@@ -88,7 +85,16 @@
 * [JPA Auditing](http://www.baeldung.com/database-auditing-jpa) - JPA Auditing of entities - track createdBy, creationDate, lastUpdateDate
 * [JPA Locks](http://vladmihalcea.com/2015/01/12/a-beginners-guide-to-java-persistence-locking/) - JPA entities Locking concept 
 
+# Git
+
+* [Git tips](http://www.alexkras.com/19-git-tips-for-everyday-use/) - Git Tips
+
 # Linux
 
 ## Security
 * [Basic Security](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Basic infrastructure security, SSH, IPTABLES
+
+# Machine learning
+
+## Neural networks
+* [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Hands-on intro to neural networks
