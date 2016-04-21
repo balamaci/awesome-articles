@@ -18,7 +18,6 @@
     - [Connection pools](#ancients)
     - [JPA](#jpa)
 - [GIT](#git)
-    - [Git tips](#git-tips)
 - [Linux](#linux)
     - [Security](#security)
 - [Machine Learning](#machine-learning)
