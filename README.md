@@ -20,7 +20,7 @@
 - [GIT](#git)
 - [Distributed systems](#distributed-systems)
 - [Linux](#linux)
-    - [Linux Command] (#linux-
+    - [Linux Commands](#linux-commands)
     - [Security](#security)
 - [Machine Learning](#machine-learning)
     - [Neural Networks](#neural-networks)
@@ -97,7 +97,7 @@
 * [Distributed Log - Kafka](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kafka distributed log concept explained.
 
 # Linux
-## General
+## Linux Commands
 * [Commands glosary](http://cb.vu/unixtoolbox.xhtml) - List of Linux commands helpful for solving specific problems. 
 
 ## Security
