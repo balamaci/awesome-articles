@@ -31,8 +31,9 @@
 ## Java8
 
 * [Java 8 Features](http://winterbe.com/posts/2014/03/16/java-8-tutorial/) - High level explainations of the features in Java8
-  
 * [Java 8 Collectors](http://codingjunkie.net/guava-and-java8-collectors/) - Java8 Collector and Streams explained by implementing Guava Multimap collector
+* [CompletableFuture](https://www.youtube.com/watch?v=-MBPQ7NIL_Y) - Video on CompletableFuture
+
 
 ## Logging
  * [Java Logging Basics](https://www.loggly.com/ultimate-guide/java-logging-basics/) - Loggers, Appenders, Layouts explained
