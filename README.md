@@ -101,6 +101,7 @@
 ## Linux Commands
 * [Commands glosary](http://cb.vu/unixtoolbox.xhtml) - List of Linux commands helpful for solving specific problems. 
 * [Cron](https://sanctum.geek.nz/arabesque/cron-best-practices/) - Crontab best practices
+
 ## Security
 * [Basic Security](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Basic infrastructure security, SSH, IPTABLES
 
