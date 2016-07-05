@@ -20,7 +20,7 @@
 - [GIT](#git)
 - [Distributed systems](#distributed-systems)
 - [Linux](#linux)
-    - [Linux Commands](#linux-commands)
+    - [General](#linux-general-stuff)
     - [Security](#security)
 - [Machine Learning](#machine-learning)
     - [Neural Networks](#neural-networks)
@@ -100,9 +100,10 @@
 * [Distributed Log - Kafka](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kafka distributed log concept explained.
 
 # Linux
-## Linux Commands
+## Linux general stuff
 * [Commands glosary](http://cb.vu/unixtoolbox.xhtml) - List of Linux commands helpful for solving specific problems. 
 * [Cron](https://sanctum.geek.nz/arabesque/cron-best-practices/) - Crontab best practices
+* [SSH](https://blog.logentries.com/2016/06/ssh-from-the-ground-up/) - Explains ssh keys, ssh-agent, ssh tunnels and proxy, etc.
 
 ## Security
 * [Basic Security](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Basic infrastructure security, SSH, IPTABLES
