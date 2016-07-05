@@ -23,7 +23,6 @@
     - [General](#linux-general-stuff)
     - [Security](#security)
 - [Machine Learning](#machine-learning)
-    - [Neural Networks](#neural-networks)
     
     
 # Java    
@@ -110,5 +109,5 @@
 
 # Machine learning
 
-## Neural networks
 * [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Hands-on intro to neural networks
+* [Practical introuction to deep learning](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/) 
