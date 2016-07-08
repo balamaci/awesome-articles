@@ -92,9 +92,6 @@
 * [Git tips](http://www.alexkras.com/19-git-tips-for-everyday-use/) - Git Tips
 * [Git flow](https://danielkummer.github.io/git-flow-cheatsheet/) - Git flow visual chart
 
-## Neural networks
-* [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Hands-on intro to neural networks
-
 # Distributed systems 
 * [Distributed Log - Kafka](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Kafka distributed log concept explained.
 
