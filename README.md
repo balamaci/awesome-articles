@@ -9,6 +9,7 @@
     - [Caching](#caching)
     - [Bytecode manipulation](#bytecode-manipulation)
     - [General](#general)
+    - [Async](#async)
 - [Software Patterns & Design](#patterns)    
     - [General](#general)
     - [SOLID Principles](#solid)
@@ -61,9 +62,12 @@
 
 * [Annotation-driven Java runtime code generation](http://zeroturnaround.com/rebellabs/how-my-new-friend-byte-buddy-enables-annotation-driven-java-runtime-code-generation) - Using ByteBuddy to generated code at runtime
 
-
 ## General
  * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
+
+## Async
+ * [NIO Socker Selector Channel](http://www.baeldung.com/java-nio-selector) - Using NIO Socker Selector instead of one-thread-per-connection approach
+
 
 # Software Patterns & Design
 * [Github patterns repository](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
