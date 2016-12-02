@@ -18,6 +18,7 @@
 - [DBs](#database)
     - [Connection pools](#ancients)
     - [JPA](#jpa)
+    - [JTA](#jta)
 - [GIT](#git)
 - [Distributed systems](#distributed-systems)
 - [Linux](#linux)
@@ -91,6 +92,9 @@
 * [JPA Native query](http://www.thoughts-on-java.org/jpa-native-queries/) - JPA native query
 * [JPA Auditing](http://www.baeldung.com/database-auditing-jpa) - JPA Auditing of entities - track createdBy, creationDate, lastUpdateDate
 * [JPA Locks](http://vladmihalcea.com/2015/01/12/a-beginners-guide-to-java-persistence-locking/) - JPA entities Locking concept 
+
+## JTA
+* [JTA with Spring](https://spring.io/blog/2016/11/30/spring-tips-jta)
 
 # Git
 
