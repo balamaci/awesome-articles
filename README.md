@@ -109,6 +109,8 @@
 * [Commands glosary](http://cb.vu/unixtoolbox.xhtml) - List of Linux commands helpful for solving specific problems. 
 * [Cron](https://sanctum.geek.nz/arabesque/cron-best-practices/) - Crontab best practices
 * [SSH](https://blog.logentries.com/2016/06/ssh-from-the-ground-up/) - Explains ssh keys, ssh-agent, ssh tunnels and proxy, etc.
+* [Memory Management](https://www.ibm.com/developerworks/library/j-nativememory-linux/) - Indepth guide about memory management in Linux and relation with Java allocation.
+* [Memory consumption](https://jvns.ca/blog/2016/12/03/how-much-memory-is-my-process-using-/) - Memory consumption Linux
 
 ## Security
 * [Basic Security](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Basic infrastructure security, SSH, IPTABLES
