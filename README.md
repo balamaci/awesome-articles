@@ -111,6 +111,7 @@
 * [SSH](https://blog.logentries.com/2016/06/ssh-from-the-ground-up/) - Explains ssh keys, ssh-agent, ssh tunnels and proxy, etc.
 * [Memory Management](https://www.ibm.com/developerworks/library/j-nativememory-linux/) - Indepth guide about memory management in Linux and relation with Java allocation.
 * [Memory consumption](https://jvns.ca/blog/2016/12/03/how-much-memory-is-my-process-using-/) - Memory consumption Linux
+* [Understanding syscalls](https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/) - [Advanced] - understanding syscalls by writting a rootkit
 
 ## Security
 * [Basic Security](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Basic infrastructure security, SSH, IPTABLES
