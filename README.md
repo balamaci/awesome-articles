@@ -115,6 +115,7 @@
 
 ## Security
 * [Basic Security](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Basic infrastructure security, SSH, IPTABLES
+* [SSH Best practices](https://blog.0xbadc0de.be/archives/300) - SSH best practices
 
 # Machine learning
 
