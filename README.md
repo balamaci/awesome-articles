@@ -77,7 +77,7 @@
 
 ## SOLID
 * [SOLID](https://dzone.com/articles/the-solid-principles-in-real-life) - SOLID explained
-
+* [SOLID](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea#.7hx1anwdd) - Another article on SOLID 
 
 # Docker
 * [Practical Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage) - Docker tips
