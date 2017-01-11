@@ -9,7 +9,7 @@
     - [Caching](#caching)
     - [Bytecode manipulation](#bytecode-manipulation)
     - [General](#general)
-    - [NIO](#async)
+    - [NIO](#nio)
 - [Software Patterns & Design](#patterns)    
     - [General](#general)
     - [SOLID Principles](#solid)
@@ -66,7 +66,7 @@
 ## General
  * [Handling InterruptedException](http://www.ibm.com/developerworks/library/j-jtp05236/) - Handling InterruptedException
 
-## Async
+## NIO
  * [NIO Socker Selector Channel](http://www.baeldung.com/java-nio-selector) - Using NIO Socker Selector instead of one-thread-per-connection approach
  * [Video Series simple thread per connection to a full NIO server](http://www.javaspecialists.eu/tutorials/006.01-Transmogrifier-Java-NIO-and-Non-Blocking-IO--Introduction.html) - Excellent video Series starting from a simple thread per connection to a full NIO server, going through a deep  explanation of Executors. Done by Dr. Heinz Kabutz.
 
