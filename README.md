@@ -46,6 +46,7 @@
 * [Thread Interruption](https://dzone.com/articles/understanding-thread-interruption-in-java) - How to interrupt threads in Java  
 * [Executor Service](http://www.baeldung.com/java-executor-service-tutorial) - ExecutorService explained
 * [Thread Pools](http://jvns.ca/blog/2016/03/27/thread-pools-how-do-i-use-them/) - ExecutorService perils
+* [Executor Service 10 tips&tricks](http://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html) - Executor Service 10 tips&tricks
 * [Analyze Thread dumps](https://dzone.com/articles/how-analyze-java-thread-dumps) - Threads explained, what are the thread states and how to analyze thread dumps.
 * [Solving a real problem](http://www.nurkiewicz.com/2016/10/small-scale-stream-processing-kata-part.html) - Solving a real complex problem with a step by step guide and the reason behind it.
 
