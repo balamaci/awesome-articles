@@ -10,6 +10,7 @@
     - [Bytecode manipulation](#bytecode-manipulation)
     - [General](#general)
     - [NIO](#nio)
+    - [JMX](#jmx)
 - [Software Patterns & Design](#patterns)    
     - [General](#general)
     - [SOLID Principles](#solid)
@@ -70,6 +71,9 @@
 ## NIO
  * [NIO Socker Selector Channel](http://www.baeldung.com/java-nio-selector) - Using NIO Socker Selector instead of one-thread-per-connection approach
  * [Video Series simple thread per connection to a full NIO server](http://www.javaspecialists.eu/tutorials/006.01-Transmogrifier-Java-NIO-and-Non-Blocking-IO--Introduction.html) - Excellent video Series starting from a simple thread per connection to a full NIO server, going through a deep  explanation of Executors. Done by Dr. Heinz Kabutz.
+
+## JMX
+ * [All the thing you can do with JMX](https://www.ctheu.com/2017/02/14/all-the-things-we-can-do-with-jmx/)
 
 # Software Patterns & Design
 * [Github patterns repository](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
