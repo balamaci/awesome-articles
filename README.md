@@ -16,7 +16,7 @@
     - [SOLID Principles](#solid)
 - [Docker](#docker)
     - [Compose](#compose)
-    - [Networking](#)
+    - [Networking](#docker-networking)
 - [DBs](#database)
     - [Connection pools](#ancients)
     - [JPA](#jpa)
@@ -87,6 +87,8 @@
 
 # Docker
 * [Practical Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage) - Docker tips
+
+## Docker networking
 * [Docker Networking official](https://docs.docker.com/engine/userguide/networking/dockernetworks/) - Docker networking
 * [Docker Networking explained](https://medium.com/@joatmon08/container-networking-faq-for-the-developer-63a295cd3f9e#.9swmzefln)
 
