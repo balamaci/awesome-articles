@@ -122,6 +122,7 @@
 * [Memory consumption](https://jvns.ca/blog/2016/12/03/how-much-memory-is-my-process-using-/) - Memory consumption Linux
 * [Understanding syscalls](https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/) - [Advanced] - understanding syscalls by writting a rootkit
 * [Linux network commands](https://likegeeks.com/linux-network-commands/)
+* [iptables commands](https://dzone.com/articles/linux-iptables-firewall-simplified-examples)
 
 ## Security
 * [Linux network commands](https://likegeeks.com/linux-network-commands/)
