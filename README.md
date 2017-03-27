@@ -11,6 +11,7 @@
     - [General](#general)
     - [NIO](#nio)
     - [JMX](#jmx)
+    - [Generics](#generics)
 - [Software Patterns & Design](#patterns)    
     - [General](#general)
     - [SOLID Principles](#solid)
@@ -76,6 +77,9 @@
 ## JMX
  * [All the thing you can do with JMX](https://www.ctheu.com/2017/02/14/all-the-things-we-can-do-with-jmx/)
 
+## Generics
+ * [Generics interview](http://www.baeldung.com/java-generics-interview-questions)
+
 # Software Patterns & Design
 * [Github patterns repository](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
 * [Patterns with Java8](https://www.youtube.com/watch?v=-k2X7guaArU) - Patterns re-analised and implemented with Java8
@@ -106,7 +110,6 @@
 * [JTA with Spring](https://spring.io/blog/2016/11/30/spring-tips-jta)
 
 # Git
-
 * [Git tips](http://www.alexkras.com/19-git-tips-for-everyday-use/) - Git Tips
 * [Git flow](https://danielkummer.github.io/git-flow-cheatsheet/) - Git flow visual chart
 
