@@ -56,6 +56,7 @@
 ## Maven
  * [Maven Profiles](http://www.petrikainulainen.net/programming/tips-and-tricks/creating-profile-specific-configuration-files-with-maven/) - Maven Profiles
  * [Maven cheatsheet](https://zeroturnaround.com/rebellabs/maven-cheat-sheet/)
+ * [Maven scopes explained](http://howtodoinjava.com/maven/maven-dependency-scopes/)
 
 ## Debugging
  * [JVM Internals](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/) - Classloader, JVM bytecode internals   
