@@ -140,5 +140,6 @@
 * [Using neural nets to recognize handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) - Hands-on intro to neural networks, actually a chapter in the free online book [NeuralNetworks and DeepLearning](http://neuralnetworksanddeeplearning.com)
 * [Practical introuction to deep learning](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/) 
 * [NeuralNets](http://deeplearning4j.org/neuralnet-overview.html) - Intro to neural nets and deep learning from the **dl4j** library.
+* [Matrix calculus required for DL](http://explained.ai/matrix-calculus/index.html)
 * [Washington University DL course](https://github.com/jeffheaton/t81_558_deep_learning)
 * [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
